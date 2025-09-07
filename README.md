@@ -208,7 +208,7 @@ curl -X GET "http://localhost:8000/api/booking/VX001234?user_id=user001"
 ## 📊 Demo 
 
 ### 1. Link Demo & Test
-![Link Demo](https://drive.google.com/drive/folders/1Hqxj9jrsPU171Vd3JrtAfkIfNZtkoPMq?usp=sharing)
+[Link Demo](https://drive.google.com/drive/folders/1Hqxj9jrsPU171Vd3JrtAfkIfNZtkoPMq?usp=sharing)
 
 ## 🔧 Cấu hình
 
