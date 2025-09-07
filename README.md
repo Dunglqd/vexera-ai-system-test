@@ -4,8 +4,8 @@ Hệ thống AI Customer Service cho Vexere với khả năng RAG-FAQ và After-
 
 ## 📊 Demo 
 
-### 1. Link Demo & Test
-[Link Demo](https://drive.google.com/drive/folders/1Hqxj9jrsPU171Vd3JrtAfkIfNZtkoPMq?usp=sharing)
+### 1. Link Demo & Test & PDF
+[Link Demo and Pdf](https://drive.google.com/drive/folders/1Hqxj9jrsPU171Vd3JrtAfkIfNZtkoPMq?usp=sharing)
 
 ## ⚡ Quick Start
 
