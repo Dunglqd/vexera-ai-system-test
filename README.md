@@ -2,6 +2,11 @@
 
 Hệ thống AI Customer Service cho Vexere với khả năng RAG-FAQ và After-Service tự động.
 
+## 📊 Demo 
+
+### 1. Link Demo & Test
+[Link Demo](https://drive.google.com/drive/folders/1Hqxj9jrsPU171Vd3JrtAfkIfNZtkoPMq?usp=sharing)
+
 ## ⚡ Quick Start
 
 ```bash
@@ -205,10 +210,6 @@ curl -X GET "http://localhost:8000/api/booking/VX001234?user_id=user001"
 3. **Booking Service**: Xử lý yêu cầu After-Service
 4. **Image/Voice Services**: Kiến trúc sẵn sàng cho xử lý đa phương tiện
 
-## 📊 Demo 
-
-### 1. Link Demo & Test
-[Link Demo](https://drive.google.com/drive/folders/1Hqxj9jrsPU171Vd3JrtAfkIfNZtkoPMq?usp=sharing)
 
 ## 🔧 Cấu hình
 
