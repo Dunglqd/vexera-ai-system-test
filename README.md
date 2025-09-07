@@ -28,8 +28,6 @@ python start_system.py
 ## 📋 Yêu cầu hệ thống
 
 - Python 3.8+
-- 4GB RAM (khuyến nghị)
-- 2GB dung lượng ổ cứng
 
 ## 🛠️ Cài đặt
 
