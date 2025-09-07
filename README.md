@@ -33,7 +33,7 @@ python start_system.py
 
 ### 1. Clone repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Dunglqd/vexera-ai-system-test.git
 cd vexera-ai-system
 ```
 
@@ -274,7 +274,7 @@ docker run -p 8000:8000 -p 8501:8501 vexera-ai-system
    python -m app.main
    
    # Hoặc đảm bảo đang ở thư mục gốc
-   cd E:\LearnIT\azure\vexera
+   cd folder
    python -m app.main
    ```
 
