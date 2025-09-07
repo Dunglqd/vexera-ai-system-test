@@ -205,19 +205,10 @@ curl -X GET "http://localhost:8000/api/booking/VX001234?user_id=user001"
 3. **Booking Service**: Xử lý yêu cầu After-Service
 4. **Image/Voice Services**: Kiến trúc sẵn sàng cho xử lý đa phương tiện
 
-## 📊 Demo và Screenshots
+## 📊 Demo 
 
-### 1. Giao diện chính
-![Main Interface](docs/screenshots/main_interface.png)
-
-### 2. FAQ Chat
-![FAQ Chat](docs/screenshots/faq_chat.png)
-
-### 3. After-Service
-![After Service](docs/screenshots/after_service.png)
-
-### 4. API Documentation
-![API Docs](docs/screenshots/api_docs.png)
+### 1. Link Demo & Test
+![Link Demo](https://drive.google.com/drive/folders/1Hqxj9jrsPU171Vd3JrtAfkIfNZtkoPMq?usp=sharing)
 
 ## 🔧 Cấu hình
 
